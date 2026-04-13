@@ -22,7 +22,6 @@ codex-cli/README.md
 result
 
 # editor
-.vscode/
 .idea/
 .history/
 .zed/
@@ -50,7 +49,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # env
-.env*
 !.env.example
 
 # package
@@ -92,3 +90,4 @@ CHANGELOG.ignore.md
 __pycache__/
 *.pyc
 
+config.bat
